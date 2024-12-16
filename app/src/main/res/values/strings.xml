@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarea2SAG</string>
+    <string name="nombre_mario">Mario</string>
+    <string name="nombre_luigi">Luigi</string>
+    <string name="nombre_peach">Peach</string>
+    <string name="nombre_toad">Toad</string>
+    <string name="texto_acerca">Acerca de...</string>
+    <string name="language_change">Idioma cambiado a Español</string>
+    <string name="language_change_es">Idioma cambiado a Español</string>
+    <string name="cambio_idioma">Cambiar idioma</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="dialog_acerca">Aplicación desarrollada por Sergio Anguita Gámez.\n\nVersión 1.0.</string>
+    <string name="habilidades_mario">Experto en saltos, fuerza equilibrada, lanza bolas de fuego con flores, y puede volar con la capa o el traje Tanooki.</string>
+    <string name="habilidades_luigi">Salta más alto que Mario, resbala al correr, usa la aspiradora Poltergeist para cazar fantasmas en mansiones.</string>
+    <string name="habilidades_peach">"Flota brevemente al saltar gracias a su vestido. Usa su paraguas para atacar y defenderse en ciertas aventuras."</string>
+    <string name="habilidades_toad">Rápido y ágil, excelente cargando objetos. Aunque no salta alto, es muy valiente.</string>
+    <string name="descripcion_mario">Valiente fontanero italiano, héroe del Reino Champiñón, conocido por su gorra roja y bigote. Salta y corre para rescatar a la princesa Peach de Bowser.</string>
+    <string name="descripcion_luigi">Hermano alto y tímido de Mario, lleva una gorra verde. Ayuda en aventuras y enfrenta miedos en mansiones embrujadas.</string>
+    <string name="descripcion_peach">Princesa del Reino Champiñón, elegante y bondadosa. Frecuentemente secuestrada por Bowser, pero también lucha en ocasiones para salvar su reino.</string>
+    <string name="descripcion_toad">Habitante del Reino Champiñón, fiel asistente de Peach. Valiente y alegre.</string>
+    <string name="boton_volver">Volver al listado</string>
+    <string name="bienvenida">Bienvenidos al mundo de Mario</string>
+    <string name="personaje_seleccionado">Se ha seleccionado al personaje</string>
+    <string name="inicio">Inicio</string>
+    <string name="Ajustes">Ajustes</string>
+    <string name="idioma">Idioma</string>
+    <string name="ingles">Inglés</string>
+    <string name="español">Español</string>
+</resources>

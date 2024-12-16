@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task2SAG</string>
+    <string name="nombre_mario">Mario</string>
+    <string name="nombre_luigi">Luigi</string>
+    <string name="nombre_peach">Peach</string>
+    <string name="nombre_toad">Toad</string>
+    <string name="texto_acerca">About...</string>
+    <string name="aceptar">Accept</string>
+    <string name="cambio_idioma">Switch language</string>
+    <string name="language_change_es">Language changed to English</string>
+    <string name="dialog_acerca">Application developed by Sergio Anguita Gámez.\n\nVersion 1.0.</string>
+    <string name="habilidades_mario">Expert in jumping, balanced strength, throws fireballs with flowers, and can fly with the cape or Tanooki suit.</string>
+    <string name="habilidades_luigi">Jumps higher than Mario, slips when running, uses the Poltergeist vacuum to hunt ghosts in mansions.</string>
+    <string name="habilidades_peach">"Briefly floats when jumping thanks to her dress. Uses her umbrella to attack and defend herself in certain adventures."</string>
+    <string name="habilidades_toad">Fast and agile, excellent at carrying objects. Although he doesnt jump high, hes very brave.</string>
+    <string name="descripcion_mario">Brave Italian plumber, hero of the Mushroom Kingdom, known for his red cap and mustache. Jumps and runs to rescue Princess Peach from Bowser.</string>
+    <string name="descripcion_luigi">Marios tall and shy brother, wears a green cap. Helps in adventures and faces fears in haunted mansions.</string>
+    <string name="descripcion_peach">Princess of the Mushroom Kingdom, elegant and kind-hearted. Frequently kidnapped by Bowser, but also fights on occasions to save her kingdom.</string>
+    <string name="descripcion_toad">Inhabitant of the Mushroom Kingdom, loyal assistant to Peach. Brave and cheerful.</string>
+    <string name="boton_volver">Back to the list</string>
+    <string name="bienvenida">Welcome to Mario world</string>
+    <string name="language_change">Language changed to English</string>
+    <string name="personaje_seleccionado">The selected character is </string>
+    <string name="inicio">Home</string>
+    <string name="Ajustes">Settings</string>
+    <string name="idioma">Language</string>
+    <string name="ingles">English</string>
+    <string name="español">Spanish</string>
+</resources>

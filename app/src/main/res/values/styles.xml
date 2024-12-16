@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="estilo_boton">
+        <item name="android:backgroundTint">#FF5722</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#EDDAE2</item>
+    </style>
+
+    <style name="estilo_texto">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#EDDAE2</item>
+    </style>
+
+    <style name="estilo_texto_principal">
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#EDDAE2</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="estilo_fondo">
+        <item name="android:background">#F89F86</item>
+    </style>
+
+    <style name="estilo_cardview">
+        <item name="android:background">#FF5722</item>
+    </style>
+
+    <style name="dialog" parent="Theme.MaterialComponents.Dialog.Alert">
+        <item name="android:background">#F89F86</item>
+        <item name="android:textColorPrimary">#EDDAE2</item>
+        <item name="android:textAppearance">@style/estilo_texto</item>
+        <item name="buttonBarPositiveButtonStyle">@style/estilo_boton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/estilo_boton</item>
+    </style>
+
+</resources>
